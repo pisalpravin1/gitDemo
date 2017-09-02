@@ -8,7 +8,8 @@ package net.codejava.excel;
 public class Book {
 	private String title;
 	private String author;
-	private double price;
+	private double bbbb
+
 
 	public Book() {
 	}
